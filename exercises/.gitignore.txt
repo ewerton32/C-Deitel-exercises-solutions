@@ -1,0 +1,11 @@
+#ignorar arquivos .exe
+*.exe
+
+#ignorar arquivos de texto
+*.txt
+
+#ignorar pasta bin 
+/bin  
+
+#ignorar pasta obj
+/obj
