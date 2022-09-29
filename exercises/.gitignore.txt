@@ -4,6 +4,9 @@
 #ignorar arquivos de texto
 *.txt
 
+#ignorar arquivos de texto
+*.sample
+
 #ignorar pasta bin 
 /bin  
 
