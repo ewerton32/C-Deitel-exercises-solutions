@@ -8,7 +8,7 @@
 **.sample
 
 #ignorar pasta bin 
-**/bin  
+**exercises/bin  
 
 #ignorar pasta obj
-**/obj
+**exercises/obj
