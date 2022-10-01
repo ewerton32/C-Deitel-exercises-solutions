@@ -1,14 +1,14 @@
 #ignorar arquivos .exe
-*.exe
+**.exe
 
 #ignorar arquivos de texto
-*.txt
+**.txt
 
-#ignorar arquivos de texto
-*.sample
+#ignorar arquivos de exemplo
+**.sample
 
 #ignorar pasta bin 
-/bin  
+**/bin  
 
 #ignorar pasta obj
-/obj
+**/obj
