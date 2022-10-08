@@ -3,14 +3,14 @@
 
 #include <iostream>//permite que o programa gere saida de dados na tela
 
-using namespaces std;
+using namespace std;
 
 //a função main inicia a execução do programa
 
 int main(){
 
-cout << "Welcome";
-cout <<" to C++!\n";
+std::cout << "Welcome";
+std::cout <<" to C++!\n";
 
-return 0; // indica que o programa terminou
-}//fim da função main
+return 0;
+}
