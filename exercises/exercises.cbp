@@ -32,7 +32,15 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
-		<Unit filename="main.cpp" />
+		<Unit filename="exe2.1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="exe2.3.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="exe2.4.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Extensions>
 			<code_completion />
 			<envvars />
